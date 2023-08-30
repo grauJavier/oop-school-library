@@ -89,7 +89,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## 🔭 Future Features <a id="future-features"></a>
 
-- Students will explore and implement the "Decorator" design pattern.
 - This project focuses on establishing associations between different entities.
 - Students will develop a basic user interface (UI) layer for the app, which will be a console application.
 - This project involves refactoring and improving the codebase.
