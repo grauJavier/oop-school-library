@@ -89,7 +89,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## 🔭 Future Features <a id="future-features"></a>
 
-- Students will develop a basic user interface (UI) layer for the app, which will be a console application.
 - This project involves refactoring and improving the codebase.
 - Students will work on data persistence, ensuring that the records are preserved even after the program is closed.
 - The final project involves creating unit tests to ensure the functionality and robustness of the app.
