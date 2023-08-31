@@ -102,7 +102,7 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/grauJavier/oop-school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
