@@ -89,7 +89,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## 🔭 Future Features <a id="future-features"></a>
 
-- This project focuses on establishing associations between different entities.
 - Students will develop a basic user interface (UI) layer for the app, which will be a console application.
 - This project involves refactoring and improving the codebase.
 - Students will work on data persistence, ensuring that the records are preserved even after the program is closed.
@@ -103,7 +102,7 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/grauJavier/oop-school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
