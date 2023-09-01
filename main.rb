@@ -52,7 +52,7 @@ class Main
     title = gets.chomp
     print 'Author: '
     author = gets.chomp
-    @app.create_a_book(title, author)
+    @app.create_a_book(author, title)
     puts 'Book created successfully'
     puts
   end
